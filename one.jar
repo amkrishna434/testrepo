@@ -1,4 +1,5 @@
 <classpath>
     <pathelement path="${classpath}"/>
     <pathelement location="lib/helper.jar"/>
+	<pathelement location="lib/help.jar"/>
 </classpath>
