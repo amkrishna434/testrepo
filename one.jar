@@ -1,0 +1,4 @@
+<classpath>
+    <pathelement path="${classpath}"/>
+    <pathelement location="lib/helper.jar"/>
+</classpath>
